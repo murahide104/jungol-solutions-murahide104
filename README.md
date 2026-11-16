@@ -1,6 +1,6 @@
-# Jungol Solutions (Python)
+# Jungol Solutions
 
-Jungol（정올）で解いた問題の提出コードをまとめたリポジトリです。
+アルゴリズム学習サイト Jungol（정올） で解いた問題の提出コードをまとめたリポジトリです。
 2024年に取り組みました。
 
 ## 概要
